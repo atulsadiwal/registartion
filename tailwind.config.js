@@ -7,10 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
-      },
+      backgroundImage: {
+        'mainSvg': "url('/svg/page-turner.svg')"
+      }
     },
   },
   plugins: [],

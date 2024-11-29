@@ -1,0 +1,1 @@
+export const API_NODE_URL = "https://gims-live.onrender.com/api/";
